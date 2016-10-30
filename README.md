@@ -1,5 +1,5 @@
 # Basket tips
-1.Basket a simple and lighter framework for your web application development<br>
+1.Basket is a simple and lighter js framework for your web application development<br>
 2.Basket rely on jQuery, so please import jQuery before basket.<br>
 3.Basket {{}} is similar to Angular, but not Angular.<br>
 4.Use {{}} in html, you are able to write javascript into dom directly, and show what you want.<br>
